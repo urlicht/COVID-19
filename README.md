@@ -8,6 +8,7 @@ COVID-19 resources and articles. Please feel free to contribute.
 - [Government/international agencies](##governmentinternational-agencies)  
 - [Dashboard](#Dashboard)  
 - [Podcast](#Podcast)  
+- [Company](#Company)
 
 ## Peer-reviewed journals
 ### Resource center
@@ -60,3 +61,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [Mayo Clinic Talks - COVID-19 (Novel 2019 Coronavirus) Miniseries](https://podcasts.apple.com/us/podcast/covid-19-novel-2019-coronavirus-miniseries-episode/id1183061010?i=1000464285942)
 - [CSIS - COVID-19: New Reality](https://www.csis.org/podcasts/truth-matter/covid-19-new-reality)
 
+## Company
+Companies working on COVID-19 vaccines/treatments
+- [Gilead Sciences - Gilead Sciences Update On The Company’s Ongoing Response To COVID-19](https://www.gilead.com/purpose/advancing-global-health/covid-19)
+- [Inovio - Inovio Accelerates Timeline for COVID-19 DNA Vaccine INO-4800](http://ir.inovio.com/news-and-media/news/press-release-details/2020/Inovio-Accelerates-Timeline-for-COVID-19-DNA-Vaccine-INO-4800/default.aspx)
