@@ -1,6 +1,12 @@
 # COVID-19
 List of COVID-19 resources and articles
 
+## Index
+[Peer-reviewed journals](#peer-reviewed-journals)
+[Government/international agencies](#Government/international agencies)
+[Dashboard](#Dashboard)
+[Podcast](#Podcast)
+
 ## Peer-reviewed journals
 ### Resource center
 These pages are maintained by journals to organize COVID-19 related articles.
@@ -35,6 +41,6 @@ These pages are maintained by journals to organize COVID-19 related articles.
 2. [WHO - Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 3. [CDC - Coronavirus Disease 2019 (COVID-19) in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
 
-## Podcast and podcast episodes
+## Podcast
 1. [EPIDEMIC with Dr. Celine Gounder and Ronald Klain](https://podcasts.apple.com/us/podcast/epidemic-with-dr-...celine-gounder-and-ronald-klain/id1499394284)
 2. [Mayo Clinic Talks - COVID-19 (Novel 2019 Coronavirus) Miniseries](https://podcasts.apple.com/us/podcast/covid-19-novel-2019-coronavirus-miniseries-episode/id1183061010?i=1000464285942)
