@@ -16,16 +16,13 @@ These pages are maintained by journals to organize COVID-19 related articles.
 ### Modeling/data
 1. [Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30074-7/)  
 2. [Open access epidemiological data from the COVID-19 outbreak](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30119-5/)
-3. 
-
-### Quarantine
-1. [The psychological impact of quarantine and how to reduce it: rapid review of the evidence](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30460-8/)
 
 ## Government agencies
 ### United States
 #### Federal
 1. [CDC - Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 #### State
-1. [MA](https://www.mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19)
+1. [NY](https://www.health.ny.gov/diseases/communicable/coronavirus/)
+2. [MA](https://www.mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19)
 ### South Korea
 1. [코로나바이러스감염증-19(COVID-19)](http://ncov.mohw.go.kr/index_main.jsp) ([English](https://jamanetwork.com/journals/jama/fullarticle/2762130))
