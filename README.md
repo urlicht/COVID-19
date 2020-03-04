@@ -39,6 +39,9 @@ These pages are maintained by journals to organize COVID-19 related articles.
 ### South Korea
 - [코로나바이러스감염증-19(COVID-19)](http://ncov.mohw.go.kr/index_main.jsp) ([English](https://jamanetwork.com/journals/jama/fullarticle/2762130))
 
+### Europe
+- [European Centre for Disease Prevention and Control - COVID-19](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
+
 ## Dashboard
 - [Johns Hopkins - Mapping 2019-nCoV](https://systems.jhu.edu/research/public-health/ncov/)
 - [WHO - Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
