@@ -1,5 +1,5 @@
 # COVID-19
-List of COVID-19 resources and articles
+COVID-19 resources and articles
 
 ## Index
 - [Peer-reviewed journals](#peer-reviewed-journals)  
