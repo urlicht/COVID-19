@@ -17,7 +17,9 @@ These pages are maintained by journals to organize COVID-19 related articles.
 1. [Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30074-7/)  
 2. [Open access epidemiological data from the COVID-19 outbreak](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30119-5/)
 
-## Government agencies
+## Government/international agencies
+### International
+1. [WHO - Coronavirus disease (COVID-19) outbreak](https://www.health.ny.gov/diseases/communicable/coronavirus/)
 ### United States
 #### Federal
 1. [CDC - Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
