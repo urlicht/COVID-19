@@ -54,3 +54,5 @@ These pages are maintained by journals to organize COVID-19 related articles.
 ## Podcast
 - [EPIDEMIC with Dr. Celine Gounder and Ronald Klain](https://podcasts.apple.com/us/podcast/epidemic-with-dr-...celine-gounder-and-ronald-klain/id1499394284)
 - [Mayo Clinic Talks - COVID-19 (Novel 2019 Coronavirus) Miniseries](https://podcasts.apple.com/us/podcast/covid-19-novel-2019-coronavirus-miniseries-episode/id1183061010?i=1000464285942)
+- [CSIS - COVID-19: New Reality](https://www.csis.org/podcasts/truth-matter/covid-19-new-reality)
+
