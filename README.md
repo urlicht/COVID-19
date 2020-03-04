@@ -4,6 +4,7 @@ List of COVID-19 resources and articles
 ## Index
 - [Peer-reviewed journals](#peer-reviewed-journals)  
 - [Economics/finance](#economicsfinance)
+- [Think tank/NGO](#think-tankngo)
 - [Government/international agencies](##governmentinternational-agencies)  
 - [Dashboard](#Dashboard)  
 - [Podcast](#Podcast)  
