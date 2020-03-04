@@ -1,5 +1,5 @@
 # COVID-19
-COVID-19 resources and articles
+COVID-19 resources and articles. Please feel free to contribute.
 
 ## Index
 - [Peer-reviewed journals](#peer-reviewed-journals)  
