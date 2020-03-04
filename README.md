@@ -22,6 +22,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 ## Economics/finance
 - [Goldman Sachs - 2020’S BLACK SWAN: CORONAVIRUS](https://www.goldmansachs.com/insights/pages/top-of-mind/coronavirus/report.pdf)
 - [Moody's - COVID-19 Alternative Scenarios](https://www.moodysanalytics.com/-/media/article/2020/global-convid19-scenario-narratives.pdf)
+- [J.P. Morgan Asset Management - Eye on the Market: COVID-19 update](https://am.jpmorgan.com/us/institutional/library/eotm-covid19)
 
 ## Government/international agencies
 ### International
