@@ -26,6 +26,8 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [Bain - Coronavirus](https://www.bain.com/insights/topics/coronavirus/)
 - [Moody's - COVID-19 Alternative Scenarios](https://www.moodysanalytics.com/-/media/article/2020/global-convid19-scenario-narratives.pdf)
 - [J.P. Morgan Asset Management - Eye on the Market: COVID-19 update](https://am.jpmorgan.com/us/institutional/library/eotm-covid19)
+- [World Bank Group - COVID-19](https://www.worldbank.org/en/who-we-are/news/coronavirus-covid19])
+- [IMF - Remarks by IMF Managing Director Kristalina Georgieva to G20 on Economic Impact of COVID-19](https://www.imf.org/en/News/Articles/2020/02/22/pr2061-remarks-by-kristalina-georgieva-to-g20-on-economic-impact-of-covid-19)
 
 ## Think tank/NGO
 - [Brookings - The global macroeconomic impacts of COVID-19: Seven scenarios](https://www.brookings.edu/research/the-global-macroeconomic-impacts-of-covid-19-seven-scenarios/)
