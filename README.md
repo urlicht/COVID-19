@@ -15,16 +15,6 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [NEJM](https://www.nejm.org/coronavirus)  
 - [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
 
-### Pathology
-- [Pathological findings of COVID-19 associated with acute respiratory distress syndrom](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30076-X/)
-- [Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)
-- [Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR](https://pubs.rsna.org/doi/10.1148/radiol.2020200432)
-
-### Modeling/data
-- [Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30074-7/)  
-- [Open access epidemiological data from the COVID-19 outbreak](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30119-5/)
-- [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316)
-
 ## Economics/finance
 - [Goldman Sachs - 2020’S BLACK SWAN: CORONAVIRUS](https://www.goldmansachs.com/insights/pages/top-of-mind/coronavirus/report.pdf)
 - [Moody's - COVID-19 Alternative Scenarios](https://www.moodysanalytics.com/-/media/article/2020/global-convid19-scenario-narratives.pdf)
