@@ -63,5 +63,9 @@ These pages are maintained by journals to organize COVID-19 related articles.
 
 ## Company
 Companies working on COVID-19 vaccines/treatments
+### Phase III
 - [Gilead Sciences - Gilead Sciences Update On The Company’s Ongoing Response To COVID-19](https://www.gilead.com/purpose/advancing-global-health/covid-19)
+### Phase I
+- [Moderna Therapeutics - Moderna Ships mRNA Vaccine Against Novel Coronavirus (mRNA-1273) for Phase 1 Study](https://investors.modernatx.com/news-releases/news-release-details/moderna-ships-mrna-vaccine-against-novel-coronavirus-mrna-1273)
+### Preclinical
 - [Inovio - Inovio Accelerates Timeline for COVID-19 DNA Vaccine INO-4800](http://ir.inovio.com/news-and-media/news/press-release-details/2020/Inovio-Accelerates-Timeline-for-COVID-19-DNA-Vaccine-INO-4800/default.aspx)
