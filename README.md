@@ -5,7 +5,7 @@ COVID-19 resources and articles. Please feel free to contribute.
 - [Peer-reviewed journals](#peer-reviewed-journals)  
 - [Economics/finance](#economicsfinance)
 - [Think tank/NGO](#think-tankngo)
-- [Government/international agencies](##governmentinternational-agencies)  
+- [Government/international agencies](#governmentinternational-agencies)  
 - [Dashboard](#Dashboard)  
 - [Podcast](#Podcast)  
 - [Company](#Company)
