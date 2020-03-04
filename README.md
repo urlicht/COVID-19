@@ -24,6 +24,9 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [Moody's - COVID-19 Alternative Scenarios](https://www.moodysanalytics.com/-/media/article/2020/global-convid19-scenario-narratives.pdf)
 - [J.P. Morgan Asset Management - Eye on the Market: COVID-19 update](https://am.jpmorgan.com/us/institutional/library/eotm-covid19)
 
+## Think tank/NGO
+- [Brookings - The global macroeconomic impacts of COVID-19: Seven scenarios](https://www.brookings.edu/research/the-global-macroeconomic-impacts-of-covid-19-seven-scenarios/)
+
 ## Government/international agencies
 ### International
 - [WHO - Coronavirus disease (COVID-19) outbreak](https://www.health.ny.gov/diseases/communicable/coronavirus/)
