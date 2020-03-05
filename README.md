@@ -69,6 +69,9 @@ These pages are maintained by journals to organize COVID-19 related articles.
 ## Opinions/perspectives
 - [Bill Gates - Responding to Covid-19 — A Once-in-a-Century Pandemic?](https://www.nejm.org/doi/full/10.1056/NEJMp2003762)
 
+## Popsci articles
+- [WIRED - Everything You Need to Know About Coronavirus Vaccines](https://www.wired.com/story/everything-you-need-to-know-about-coronavirus-vaccines/)
+
 ## Company
 Companies working on COVID-19 vaccines/treatments
 ### Phase III
