@@ -59,6 +59,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 
 ## Popsci articles
 - [WIRED - Everything You Need to Know About Coronavirus Vaccines](https://www.wired.com/story/everything-you-need-to-know-about-coronavirus-vaccines/)
+- [Scientific American - A Promising Antiviral Is Being Tested for the Coronavirus—but Results Are Not Yet Out](https://www.scientificamerican.com/article/a-promising-antiviral-is-being-tested-for-the-coronavirus-but-results-are-not-yet-out/)
 
 ## Government/international agencies
 ### International
