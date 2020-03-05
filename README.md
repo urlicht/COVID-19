@@ -25,6 +25,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [Modeling/data](peer-reviewed-modeling-data.md)
 
 ## Economics/finance
+- [HBR - What Coronavirus Could Mean for the Global Economy](https://hbr.org/2020/03/what-coronavirus-could-mean-for-the-global-economy)
 - [Goldman Sachs - 2020’S BLACK SWAN: CORONAVIRUS](https://www.goldmansachs.com/insights/pages/top-of-mind/coronavirus/report.pdf)
 - [McKinsey - COVID-19: Implications for business](https://www.mckinsey.com/business-functions/risk/our-insights/covid-19-implications-for-business)
 - [Bain - Coronavirus](https://www.bain.com/insights/topics/coronavirus/)
