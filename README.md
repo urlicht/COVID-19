@@ -7,7 +7,8 @@ COVID-19 resources and articles. Please feel free to contribute.
 - [Think tank/NGO](#think-tankngo)
 - [Government/international agencies](#governmentinternational-agencies)  
 - [Dashboard](#Dashboard)  
-- [Podcast](#Podcast)  
+- [Podcast](#Podcast)
+- [Opinions/perspectives](#opinionsperspectives)
 - [Company](#Company)
 
 ## Peer-reviewed journals
@@ -57,6 +58,9 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [EPIDEMIC with Dr. Celine Gounder and Ronald Klain](https://podcasts.apple.com/us/podcast/epidemic-with-dr-...celine-gounder-and-ronald-klain/id1499394284)
 - [Mayo Clinic Talks - COVID-19 (Novel 2019 Coronavirus) Miniseries](https://podcasts.apple.com/us/podcast/covid-19-novel-2019-coronavirus-miniseries-episode/id1183061010?i=1000464285942)
 - [CSIS - COVID-19: New Reality](https://www.csis.org/podcasts/truth-matter/covid-19-new-reality)
+
+## Opnions/perspectives
+- [Bill Gates - Responding to Covid-19 — A Once-in-a-Century Pandemic?](https://www.nejm.org/doi/full/10.1056/NEJMp2003762)
 
 ## Company
 Companies working on COVID-19 vaccines/treatments
