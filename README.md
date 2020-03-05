@@ -38,7 +38,8 @@ These pages are maintained by journals to organize COVID-19 related articles.
 
 ## Dashboard
 - [Johns Hopkins - Mapping 2019-nCoV](https://systems.jhu.edu/research/public-health/ncov/)
-- [WHO - Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+- [WHO - Novel Coronavirus (COVID-19) Situation Map](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+- [WHO - Coronavirus disease (COVID-2019) situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 - [CDC - Coronavirus Disease 2019 (COVID-19) in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
 
 ## Podcast
