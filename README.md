@@ -45,7 +45,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 
 ## Podcast
 ### 2020-03
-
+- [Vox - Understand the unfolding coronavirus outbreak with these Vox podcast episodes](https://www.vox.com/2020/3/4/21163352/coronavirus-symptoms-deaths-podcasts)
 ### 2020-02
 - [Nature Podcast - Backchat: Covering coronavirus](https://www.nature.com/articles/d41586-020-00598-0)
 - [Economist - Babbage - Going viral, going global—what can countries do to prepare for covid-19?](https://www.economist.com/podcasts/2020/02/26/going-viral-going-global-what-can-countries-do-to-prepare-for-covid-19)
