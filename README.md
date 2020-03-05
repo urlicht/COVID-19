@@ -5,10 +5,11 @@ COVID-19 resources and articles. Please feel free to contribute.
 - [Peer-reviewed journals](#peer-reviewed-journals)  
 - [Economics/finance](#economicsfinance)
 - [Think tank/NGO](#think-tankngo)
-- [Government/international agencies](#governmentinternational-agencies)  
 - [Dashboard](#Dashboard)  
 - [Podcast](#Podcast)
 - [Opinions/perspectives](#opinionsperspectives)
+- [Popsci articles](#popsci-articles)
+- [Government/international agencies](#governmentinternational-agencies)  
 - [Company](#Company)
 
 ## Peer-reviewed journals
@@ -35,21 +36,6 @@ These pages are maintained by journals to organize COVID-19 related articles.
 ## Think tank/NGO
 - [Brookings - The global macroeconomic impacts of COVID-19: Seven scenarios](https://www.brookings.edu/research/the-global-macroeconomic-impacts-of-covid-19-seven-scenarios/)
 
-## Government/international agencies
-### International
-- [WHO - Coronavirus disease (COVID-19) outbreak](https://www.health.ny.gov/diseases/communicable/coronavirus/)
-### United States
-#### Federal
-- [CDC - Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
-#### State
-[CA](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx), [MA](https://www.mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19), [NY](https://www.health.ny.gov/diseases/communicable/coronavirus/), [WA](https://www.doh.wa.gov/Emergencies/Coronavirus)
-
-### South Korea
-- [코로나바이러스감염증-19(COVID-19)](http://ncov.mohw.go.kr/index_main.jsp) ([English](https://jamanetwork.com/journals/jama/fullarticle/2762130))
-
-### Europe
-- [European Centre for Disease Prevention and Control - COVID-19](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
-
 ## Dashboard
 - [Johns Hopkins - Mapping 2019-nCoV](https://systems.jhu.edu/research/public-health/ncov/)
 - [WHO - Novel Coronavirus (COVID-19) Situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
@@ -71,6 +57,22 @@ These pages are maintained by journals to organize COVID-19 related articles.
 
 ## Popsci articles
 - [WIRED - Everything You Need to Know About Coronavirus Vaccines](https://www.wired.com/story/everything-you-need-to-know-about-coronavirus-vaccines/)
+
+## Government/international agencies
+### International
+- [WHO - Coronavirus disease (COVID-19) outbreak](https://www.health.ny.gov/diseases/communicable/coronavirus/)
+### United States
+#### Federal
+- [CDC - Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+#### State
+[CA](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx), [MA](https://www.mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19), [NY](https://www.health.ny.gov/diseases/communicable/coronavirus/), [WA](https://www.doh.wa.gov/Emergencies/Coronavirus)
+
+### South Korea
+- [코로나바이러스감염증-19(COVID-19)](http://ncov.mohw.go.kr/index_main.jsp) ([English](https://jamanetwork.com/journals/jama/fullarticle/2762130))
+
+### Europe
+- [European Centre for Disease Prevention and Control - COVID-19](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
+
 
 ## Company
 Companies working on COVID-19 vaccines/treatments
