@@ -17,6 +17,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [The Lancet](https://www.thelancet.com/coronavirus)  
 - [NEJM](https://www.nejm.org/coronavirus)  
 - [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
+- [Springer Nature](https://www.springernature.com/gp/researchers/campaigns/coronavirus)
 
 ### Articles
 - [Pathology](peer-reviewed-modeling-data.md)
@@ -58,6 +59,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 ### 2020-03
 
 ### 2020-02
+- [Nature Podcast - Backchat: Covering coronavirus](https://www.nature.com/articles/d41586-020-00598-0)
 - [Economist - Babbage - Going viral, going global—what can countries do to prepare for covid-19?](https://www.economist.com/podcasts/2020/02/26/going-viral-going-global-what-can-countries-do-to-prepare-for-covid-19)
 - [Economist - Money Talks - Covid-19 spreads—is a global economic downturn on the cards?](https://www.economist.com/podcasts/2020/02/25/covid-19-spreads-is-a-global-economic-downturn-on-the-cards)
 - [EPIDEMIC with Dr. Celine Gounder and Ronald Klain](https://podcasts.apple.com/us/podcast/epidemic-with-dr-...celine-gounder-and-ronald-klain/id1499394284)
