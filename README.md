@@ -37,6 +37,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 
 ## Think tank/NGO
 - [Brookings - The global macroeconomic impacts of COVID-19: Seven scenarios](https://www.brookings.edu/research/the-global-macroeconomic-impacts-of-covid-19-seven-scenarios/)
+- [RAND - Coronavirus Outbreak Intensifies: Q&A with RAND Experts](https://www.rand.org/blog/2020/03/coronavirus-outbreak-intensifies-qa-with-rand-experts.html)
 
 ## Dashboard
 - [Oxford - Our World in Data - Coronavirus Disease (COVID-19)](https://ourworldindata.org/coronavirus)
