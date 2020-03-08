@@ -39,6 +39,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [Brookings - The global macroeconomic impacts of COVID-19: Seven scenarios](https://www.brookings.edu/research/the-global-macroeconomic-impacts-of-covid-19-seven-scenarios/)
 
 ## Dashboard
+- [Oxford - Our World in Data - Coronavirus Disease (COVID-19)](https://ourworldindata.org/coronavirus)
 - [Johns Hopkins - Mapping 2019-nCoV](https://systems.jhu.edu/research/public-health/ncov/)
 - [WHO - Novel Coronavirus (COVID-19) Situation Map](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 - [WHO - Coronavirus disease (COVID-2019) situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
