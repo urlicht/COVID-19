@@ -73,7 +73,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 [CA](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx), [MA](https://www.mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19), [NY](https://www.health.ny.gov/diseases/communicable/coronavirus/), [WA](https://www.doh.wa.gov/Emergencies/Coronavirus)
 
 ### South Korea
-- [코로나바이러스감염증-19(COVID-19)](http://ncov.mohw.go.kr/index_main.jsp) ([English](https://jamanetwork.com/journals/jama/fullarticle/2762130))
+- [코로나바이러스감염증-19(COVID-19)](http://ncov.mohw.go.kr/index_main.jsp) ([English](http://ncov.mohw.go.kr/en/))
 
 ### Europe
 - [European Centre for Disease Prevention and Control - COVID-19](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
