@@ -24,6 +24,11 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [Pathology](peer-reviewed-modeling-data.md)
 - [Modeling/data](peer-reviewed-modeling-data.md)
 
+## Learning from the past
+### 1918
+- [Public health interventions and epidemic intensity during the 1918 influenza pandemic](https://www.pnas.org/content/104/18/7582)
+- [Nonpharmaceutical Interventions Implemented by US Cities During the 1918-1919 Influenza Pandemic](https://jamanetwork.com/journals/jama/fullarticle/208354)
+
 ## Economics/finance
 - [HBR - What Coronavirus Could Mean for the Global Economy](https://hbr.org/2020/03/what-coronavirus-could-mean-for-the-global-economy)
 - [Goldman Sachs - 2020’S BLACK SWAN: CORONAVIRUS](https://www.goldmansachs.com/insights/pages/top-of-mind/coronavirus/report.pdf)
