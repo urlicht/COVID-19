@@ -3,6 +3,7 @@ COVID-19 resources and articles. Please feel free to contribute.
 
 ## Index
 - [Peer-reviewed journals](#peer-reviewed-journals)  
+- [Learning from the past](#learning-from-the-past)
 - [Economics/finance](#economicsfinance)
 - [Think tank/NGO](#think-tankngo)
 - [Dashboard](#Dashboard)  
