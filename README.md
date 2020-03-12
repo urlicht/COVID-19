@@ -30,6 +30,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [Public health interventions and epidemic intensity during the 1918 influenza pandemic](https://www.pnas.org/content/104/18/7582)
 - [Nonpharmaceutical Interventions Implemented by US Cities During the 1918-1919 Influenza Pandemic](https://jamanetwork.com/journals/jama/fullarticle/208354)
 - [The effect of public health measures on the 1918 influenza pandemic in U.S. cities](https://www.pnas.org/content/104/18/7588)
+- [Effects of reactive social distancing on the 1918 influenza pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180545)
 
 ## Economics/finance
 - [HBR - What Coronavirus Could Mean for the Global Economy](https://hbr.org/2020/03/what-coronavirus-could-mean-for-the-global-economy)
