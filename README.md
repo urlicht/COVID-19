@@ -2,6 +2,7 @@
 COVID-19 resources and articles. Please feel free to contribute.
 
 ## Index
+- [Data](#data)
 - [Peer-reviewed journals](#peer-reviewed-journals)  
 - [Learning from the past](#learning-from-the-past)
 - [Economics/finance](#economicsfinance)
@@ -12,6 +13,9 @@ COVID-19 resources and articles. Please feel free to contribute.
 - [Popsci articles](#popsci-articles)
 - [Government/international agencies](#governmentinternational-agencies)  
 - [Company](#Company)
+
+## Data
+- [Wolfram - Resources For Novel Coronavirus COVID-19](https://wolfr.am/coronavirus)
 
 ## Peer-reviewed journals
 ### Resource center
