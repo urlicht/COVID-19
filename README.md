@@ -48,6 +48,8 @@ These pages are maintained by journals to organize COVID-19 related articles.
 - [U.S. Treasury - Statement of G7 Finance Ministers and Central Bank Governors](https://home.treasury.gov/news/press-releases/sm927)
 
 ## Think tank/NGO
+- [CFR - Conference Call: How Should Local Communities Deal With Coronavirus?](https://www.cfr.org/conference-calls/covid-19-update-janet-napolitano)
+- [CFR - Long-Term Impacts of Coronavirus in South Korea](https://www.cfr.org/blog/long-term-impacts-coronavirus-south-korea)
 - [Brookings - The global macroeconomic impacts of COVID-19: Seven scenarios](https://www.brookings.edu/research/the-global-macroeconomic-impacts-of-covid-19-seven-scenarios/)
 - [RAND - Coronavirus Outbreak Intensifies: Q&A with RAND Experts](https://www.rand.org/blog/2020/03/coronavirus-outbreak-intensifies-qa-with-rand-experts.html)
 
@@ -60,6 +62,7 @@ These pages are maintained by journals to organize COVID-19 related articles.
 
 ## Podcast
 ### 2020-03
+- [CFR - Coronavirus](https://www.cfr.org/podcasts/coronavirus)
 - [Infectious Diseases Society of America - COVID-19: What's Happening Now (March 6, 2020)](https://soundcloud.com/idsociety/covid19-podcast-march-6)
 - [Vox - Understand the unfolding coronavirus outbreak with these Vox podcast episodes](https://www.vox.com/2020/3/4/21163352/coronavirus-symptoms-deaths-podcasts)
 ### 2020-02
