@@ -60,8 +60,10 @@ These pages are maintained by journals to organize COVID-19 related articles.
 
 ## Podcast
 ### 2020-03
+- [Infectious Diseases Society of America - COVID-19: What's Happening Now (March 6, 2020)](https://soundcloud.com/idsociety/covid19-podcast-march-6)
 - [Vox - Understand the unfolding coronavirus outbreak with these Vox podcast episodes](https://www.vox.com/2020/3/4/21163352/coronavirus-symptoms-deaths-podcasts)
 ### 2020-02
+- [NEJM - Interview with Dr. Eric Rubin and Dr. Lindsey Baden on preparing for the spread of Covid-19.](https://www.nejm.org/doi/full/10.1056/NEJMe2003319)
 - [Nature Podcast - Backchat: Covering coronavirus](https://www.nature.com/articles/d41586-020-00598-0)
 - [Economist - Babbage - Going viral, going global—what can countries do to prepare for covid-19?](https://www.economist.com/podcasts/2020/02/26/going-viral-going-global-what-can-countries-do-to-prepare-for-covid-19)
 - [Economist - Money Talks - Covid-19 spreads—is a global economic downturn on the cards?](https://www.economist.com/podcasts/2020/02/25/covid-19-spreads-is-a-global-economic-downturn-on-the-cards)
